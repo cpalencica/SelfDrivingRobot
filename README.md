@@ -1,4 +1,4 @@
-# Personal Assistive Robot
+# Autonomous Robot
 
 Authors: Cristian Palencia, Yohan Kim, Tanveer Dhilon, Zhilang Gui
 
